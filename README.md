@@ -1,5 +1,5 @@
 <h1 align="center" font>Hi 👋, I'm Mainak Deb</h1>
-
+![header](https://github.com/iamPankajGhosh/iamPankajGhosh/blob/main/assets/gif/header-banner.gif?raw=true)
 <b>💫 About Me: 🔭 I’m currently working on ~ Full Stack websites || web3 Technology ||  Frameworks || Server End Deployments <br>👯 I’m looking to collaborate on ~ Stack development websites || Hyper-V || Stack Frameworks <br>👯 I’m looking to collaborate on ~ Deployment ~ Google Kubernetes Engine (GKS) || AWS ECS || Azure Kubernetes Services (AKS) || Azure <br>🤝 I’m looking for help with ~ Research on Fuzzy Logic || Expert System || Neural Network<br>🌱 I’m currently learning ~ NLP || Reinforcement Learning || Robotics || IOT || DevOps<br>💬 Ask me about ~ Data science || AI || ASP.NET || ML || API<br>⚡ Fun fact ~ "It’s all 0’s and 1’s"</b>
 
 ## 🌐 Socials:
